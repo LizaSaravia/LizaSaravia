@@ -1,4 +1,4 @@
-### Hello everyone! I am Liza 👋 
+### Hello everyone! I'm Liza 👋 
 
 ## I'm a fullstack developer, an aerospace engineer to be and a pseudo artist!
 

@@ -2,8 +2,8 @@
 
 ## I'm a fullstack developer, an aerospace engineer to be and a pseudo artist!
 
-- 🔭 I’m currently searching for a job!
-- 🌱 I’m currently learning Angular and Python
+- 🔭 I’m currently searching for the meaning of life
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate with everyone that'll take me
 - ⚡ Fun fact: I have an instagram page where I pretend to be an artist, go show me some love @xiwan.art
 

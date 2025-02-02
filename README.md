@@ -1,6 +1,6 @@
 ## Hello everyone! I'm Liza 👋 
 
-## I'm a fullstack developer, an aerospace engineer to be and a pseudo artist!
+## I'm a fullstack developer and a UX/UI enthusiast!
 
 - 🔭 Passionate Coder: Turning ideas into playful, powerful projects
 - ⚡ Full-Stack Wizard: Front-end flair meets back-end strength
